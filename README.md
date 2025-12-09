@@ -111,4 +111,4 @@ Our solution demonstrates that **solid fundamentals still matter** in competitiv
 
 Achieving a **top ~1% global rank** and **1st place at the campus level** reinforced the value of **disciplined modeling over unnecessary complexity**.
 
-<img width="3750" height="3750" alt="amazon_mlc_2025" src="https://github.com/user-attachments/assets/d0583f7e-0f57-4fc1-830b-bccbe97afa67" />
+![mlc_amazon2025](https://github.com/user-attachments/assets/102d452b-684d-458a-abf4-004dbf20939a)
